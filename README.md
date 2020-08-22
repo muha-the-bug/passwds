@@ -1,2 +1,2 @@
 # password-files:
-passwordlists for wifi in arabic countries. 
+passwordlists for passwords used in arabic countries.
